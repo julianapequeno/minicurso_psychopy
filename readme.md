@@ -1,7 +1,8 @@
 # Minicurso Psychopy
 
+<div align="center">
 <img src="meta-data/psychopyLogoType_h480.png" alt="PsychoPy Logo" height=150 align="center">
-
+</div>
 <div >
     <p> Minicurso básico da ferramenta Psychopy feito para um projeto de iniciação científica do IMD/UFRN. <i> Conteúdo em português traduzido e pesquisado por meio das plataformas oficiais do Psychopy. </i> <a href="https://www.psychopy.org/"> <p>psychopy.org</p></a></p>
 </div>
