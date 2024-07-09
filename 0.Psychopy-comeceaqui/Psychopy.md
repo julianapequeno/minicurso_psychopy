@@ -15,7 +15,7 @@
     - [Instalando o Psychopy](#instalando-o-psychopy) <br>
         - [Windows](#windows) <br>
         - [Linux](#linux) <br>
-            - 5.1.2.1 [Instalando uma versão do python compatível com o Psychopy](#instalando-uma-versão-do-python-compatível-com-o-psychopy)<br>
+            - [Instalando uma versão do python compatível com o Psychopy](#instalando-uma-versão-do-python-compatível-com-o-psychopy)<br>
                 - [Pré Requisitos](#pré-requisitos)<br>
                 - [Requirements, versões utilizadas por mim](#requirements)<br>
                 - [E se eu já tinha uma versão do python no meu computador](#e-se-eu-já-tinha-uma-versão-do-python)<br>
@@ -149,7 +149,4 @@ Na documentação do site, eles sugerem que instale-se o Psychopy primeiro e dep
 #### MacOS
 _todo!()_
 
-## O Builder
-
-![alt text](image-1.png)
 
