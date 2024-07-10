@@ -1,0 +1,5 @@
+arrow_orientation,target_x,correct_keypress,condition
+90,0.5,right,valid
+270,-0.5,left,valid
+90,-0.5,left,invalid
+270,0.5,right,invalid
