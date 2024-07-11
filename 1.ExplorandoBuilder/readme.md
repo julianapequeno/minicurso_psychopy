@@ -2,14 +2,31 @@
 Olá! Seja bem vindo(a) a segunda parte deste curso. Aqui enfim conheceremos a ferramenta Psychopy. Eu fiz um sumário para te ajudar na ordem do conteúdo, okay? Espero que te ajude! :)
 
 ## Sumário
-1.   [oBuilder.md](1.oBuilder.md)
-2.  [PosnerCueingTask.ipynb](2.PosnerCueingTask.ipynb)
-    - *Experimento:* [posnercueingtask.psyexp](experimentos/posnercueingtask.psyexp)
+1. [oBuilder.md](1.oBuilder.md) <br>
+    - Introdução à interface do Builder 
+    - Introdução às Routines, Components & Flow
+    - Painel de componentes
+    - Vamos aprender mais utilizando a plataforma?
+2. [PosnerCueingTask.ipynb](2.PosnerCueingTask.ipynb)
+    - Posner Cueing Task
+    - Adicionando um Rotina
+        - Polygon Component
+    - Posição e tamanho do componente
+        - Spatial Units
+    - Configurações globais do experimento
+    - Captando uma resposta do teclado (Keyboard Response Component)
+    - *Experimento em .psyexp:* [posnercueingtask.psyexp](experimentos/posnercueingtask.psyexp)
 3. [LoopsNoExperimento.md](3.LoopsNoExperimento.md)
-    - *Experimento:* [posnercuiengtask_loops.psyexp](experimentos/posnercuiengtask_loops.psyexp)
-4. Feedbacks | Code component
-    - *Experimento:* [posner_withfeedback_codecomponent.psyexp](experimentos/posner_withfeedback_codecomponent.psyexp)
+    - Loop Component
+    - Adicionando um Loop
+    - Data file de retorno do experimento 
+    - Utilizando variáveis no builder view
+    - Loops em blocos
+    - Indo além: Como posso misturar dados de texto e imagens dentro dos meus loops em blocos de trials?
+    - *Experimento em .psyexp:* [posnercuiengtask_loops.psyexp](experimentos/posnercuiengtask_loops.psyexp)
+4. Feedbacks | Code Component
+    - *Experimento em .psyexp:* [posner_withfeedback_codecomponent.psyexp](experimentos/posner_withfeedback_codecomponent.psyexp)
 5. Exercício 
-    - *Experimento:* [exercicio.psyexp](experimentos/exercicio.psyexp)
+    - *Experimento em .psyexp:* [exercicio.psyexp](experimentos/exercicio.psyexp)
 6. Animando os componentes
-    - *Experimento:* [dynamic.psyexp](experimentos/dynamic.psyexp)
+    - *Experimento em .psyexp:* [dynamic.psyexp](experimentos/dynamic.psyexp)
