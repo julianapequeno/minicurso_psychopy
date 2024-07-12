@@ -1,7 +1,7 @@
-# 1 - Explorando o Builder
+# :derelict_house_building: Explorando o Builder
 Olá! Seja bem vindo(a) a segunda parte deste curso. Aqui enfim conheceremos a ferramenta Psychopy. Eu fiz um sumário para te ajudar na ordem do conteúdo, okay? Espero que te ajude! :)
 
-## Sumário
+## :blue_heart: Sumário
 1. [oBuilder.md](1.oBuilder.md) <br>
     - Introdução à interface do Builder 
     - Introdução às Routines, Components & Flow
@@ -24,7 +24,7 @@ Olá! Seja bem vindo(a) a segunda parte deste curso. Aqui enfim conheceremos a f
     - `set every frame` vs `set every repeat`
     - Utilizando váriaveis dentro das `Routines`! :exploding_head: 
     - Usando Loops para blocos
-    - Indo além: Como posso misturar dados de texto e imagens dentro dos meus loops em blocos de trials?
+    - Indo além: Como posso misturar dados de texto e imagens dentro dos meus loops em blocos de trials? :thinking_face:
     - *Experimento em .psyexp:* [posnercuiengtask_loops.psyexp](experimentos/posnercuiengtask_loops.psyexp)
 4. Feedbacks | Code Component
     - *Experimento em .psyexp:* [posner_withfeedback_codecomponent.psyexp](experimentos/posner_withfeedback_codecomponent.psyexp)
