@@ -18,10 +18,12 @@ Olá! Seja bem vindo(a) a segunda parte deste curso. Aqui enfim conheceremos a f
     - *Experimento em .psyexp:* [posnercueingtask.psyexp](experimentos/posnercueingtask.psyexp)
 3. [LoopsNoExperimento.md](3.LoopsNoExperimento.md)
     - Loop Component
-    - Adicionando um Loop
-    - Data file de retorno do experimento 
-    - Utilizando variáveis no builder view
-    - Loops em blocos
+    - Passo a passo | Trabalhando com Loops 
+    - Afinal, o que temos ao final do experimento rodar? A pasta `Data`
+    - Elementos do Loop
+    - `set every frame` vs `set every repeat`
+    - Utilizando váriaveis dentro das `Routines`! :exploding_head: 
+    - Usando Loops para blocos
     - Indo além: Como posso misturar dados de texto e imagens dentro dos meus loops em blocos de trials?
     - *Experimento em .psyexp:* [posnercuiengtask_loops.psyexp](experimentos/posnercuiengtask_loops.psyexp)
 4. Feedbacks | Code Component
