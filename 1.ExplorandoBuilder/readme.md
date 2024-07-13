@@ -26,10 +26,10 @@ Olá! Seja bem vindo(a) a segunda parte deste curso. Aqui enfim conheceremos a f
     - `set every frame` vs `set every repeat`
     - Utilizando váriaveis dentro das `Routines`! :exploding_head: 
     - Usando Loops para blocos
-    - Indo além: Como posso misturar dados de texto e imagens dentro dos meus loops em blocos de trials? 🤔
     - *Experimento em .psyexp:* [posnercuiengtask_loops.psyexp](experimentos/posnercuiengtask_loops.psyexp)
 4. Feedbacks | Code Component
     - *Experimento em .psyexp:* [posner_withfeedback_codecomponent.psyexp](experimentos/posner_withfeedback_codecomponent.psyexp)
+5. [Indo além: Como posso misturar dados de texto e imagens dentro dos meus loops em blocos de trials? 🤔](5.indoalem.md)
 5. Exercício 
     - *Experimento em .psyexp:* [exercicio.psyexp](experimentos/exercicio.psyexp)
 6. Animando os componentes
