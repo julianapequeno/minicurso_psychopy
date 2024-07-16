@@ -8,7 +8,7 @@ Olá! Seja bem vindo(a) a segunda parte deste curso. Aqui enfim conheceremos a f
     - Painel de componentes
     - Vamos aprender mais utilizando a plataforma?
       
-2. [Vamos aprender com um exemplo?? ✨](2.PosnerCueingTask.ipynb)
+2. [Vamos aprender com um exemplo?? ✨](2.PosnerCueingTask.md) <br>
     - Posner Cueing Task
     - Adicionando um Rotina
         - Polygon Component
